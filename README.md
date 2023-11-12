@@ -8,4 +8,4 @@ REFINAMENTO INICIAL
 * REGRAS DE NEGÓCIO:
 * Números inteiros
 * 2 parâmetros por operação
-* Sempre retornar as ultimas 3 operações do historico
+
