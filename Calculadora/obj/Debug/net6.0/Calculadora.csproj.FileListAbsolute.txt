@@ -1,0 +1,15 @@
+C:\WORKSPACE\DIO\TDD-e-testes-unitarios\Calculadora\bin\Debug\net6.0\Calculadora.exe
+C:\WORKSPACE\DIO\TDD-e-testes-unitarios\Calculadora\bin\Debug\net6.0\Calculadora.deps.json
+C:\WORKSPACE\DIO\TDD-e-testes-unitarios\Calculadora\bin\Debug\net6.0\Calculadora.runtimeconfig.json
+C:\WORKSPACE\DIO\TDD-e-testes-unitarios\Calculadora\bin\Debug\net6.0\Calculadora.dll
+C:\WORKSPACE\DIO\TDD-e-testes-unitarios\Calculadora\bin\Debug\net6.0\Calculadora.pdb
+C:\WORKSPACE\DIO\TDD-e-testes-unitarios\Calculadora\obj\Debug\net6.0\Calculadora.csproj.AssemblyReference.cache
+C:\WORKSPACE\DIO\TDD-e-testes-unitarios\Calculadora\obj\Debug\net6.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\WORKSPACE\DIO\TDD-e-testes-unitarios\Calculadora\obj\Debug\net6.0\Calculadora.AssemblyInfoInputs.cache
+C:\WORKSPACE\DIO\TDD-e-testes-unitarios\Calculadora\obj\Debug\net6.0\Calculadora.AssemblyInfo.cs
+C:\WORKSPACE\DIO\TDD-e-testes-unitarios\Calculadora\obj\Debug\net6.0\Calculadora.csproj.CoreCompileInputs.cache
+C:\WORKSPACE\DIO\TDD-e-testes-unitarios\Calculadora\obj\Debug\net6.0\Calculadora.dll
+C:\WORKSPACE\DIO\TDD-e-testes-unitarios\Calculadora\obj\Debug\net6.0\refint\Calculadora.dll
+C:\WORKSPACE\DIO\TDD-e-testes-unitarios\Calculadora\obj\Debug\net6.0\Calculadora.pdb
+C:\WORKSPACE\DIO\TDD-e-testes-unitarios\Calculadora\obj\Debug\net6.0\Calculadora.genruntimeconfig.cache
+C:\WORKSPACE\DIO\TDD-e-testes-unitarios\Calculadora\obj\Debug\net6.0\ref\Calculadora.dll
